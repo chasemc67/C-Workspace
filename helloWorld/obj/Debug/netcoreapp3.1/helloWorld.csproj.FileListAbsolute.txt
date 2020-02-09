@@ -1,0 +1,11 @@
+/Users/chasemccarty/dev/C# Algorithms/helloWorld/bin/Debug/netcoreapp3.1/helloWorld
+/Users/chasemccarty/dev/C# Algorithms/helloWorld/bin/Debug/netcoreapp3.1/helloWorld.deps.json
+/Users/chasemccarty/dev/C# Algorithms/helloWorld/bin/Debug/netcoreapp3.1/helloWorld.runtimeconfig.json
+/Users/chasemccarty/dev/C# Algorithms/helloWorld/bin/Debug/netcoreapp3.1/helloWorld.runtimeconfig.dev.json
+/Users/chasemccarty/dev/C# Algorithms/helloWorld/bin/Debug/netcoreapp3.1/helloWorld.dll
+/Users/chasemccarty/dev/C# Algorithms/helloWorld/bin/Debug/netcoreapp3.1/helloWorld.pdb
+/Users/chasemccarty/dev/C# Algorithms/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.csprojAssemblyReference.cache
+/Users/chasemccarty/dev/C# Algorithms/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.AssemblyInfoInputs.cache
+/Users/chasemccarty/dev/C# Algorithms/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.AssemblyInfo.cs
+/Users/chasemccarty/dev/C# Algorithms/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.dll
+/Users/chasemccarty/dev/C# Algorithms/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.pdb

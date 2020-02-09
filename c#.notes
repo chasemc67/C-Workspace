@@ -1,0 +1,8 @@
+https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/create
+to create a new c# app run:
+
+dotnet new console -o myApp
+
+where console is the type of app, 
+and myApp is the name of the directory 
+it will create
