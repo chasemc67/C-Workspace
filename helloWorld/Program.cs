@@ -12,6 +12,12 @@ namespace helloWorld
             myNode.leftHand = 10;
             Console.WriteLine(myNode.leftHand);
             Console.WriteLine(myNode.rightHand);
+
+            var parent = ParentClass();
+            var child = ChildClass();
+
+            Console.WriteLine(ChildClass.name);
+            Console.WriteLine(ChildClass.health);
         }
     }
 }
