@@ -1,8 +1,8 @@
 public class ParentClass {
-    string name = "default";
-    int health = 0;
+    public string name = "default";
+    public int health = 0;
 
-    ParentClass(string name) {
+    public ParentClass(string name) {
         this.name = name;
     }
 }

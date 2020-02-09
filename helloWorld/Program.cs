@@ -13,11 +13,11 @@ namespace helloWorld
             Console.WriteLine(myNode.leftHand);
             Console.WriteLine(myNode.rightHand);
 
-            var parent = ParentClass();
-            var child = ChildClass();
+            var parent = new ParentClass("parent");
+            var child = new ChildClass("child");
 
-            Console.WriteLine(ChildClass.name);
-            Console.WriteLine(ChildClass.health);
+            Console.WriteLine(child.name);
+            Console.WriteLine(child.health);
         }
     }
 }
